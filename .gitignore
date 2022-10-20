@@ -131,3 +131,5 @@ dmypy.json
 # Eddy
 eddy_venv/
 data/
+requirements.txt
+data.zip
